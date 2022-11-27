@@ -489,9 +489,6 @@ a {
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 0;
     }
-    #modal-detail .modal-content {
-        height: 100vh;
-    }
 
     .btn-submit {
         max-width: 100%;
